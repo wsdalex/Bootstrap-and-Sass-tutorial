@@ -1,0 +1,25 @@
+{
+  "name": "sass_bootstrap",
+  "version": "1.0.0",
+  "description": "Project to learn Bootstrap and SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsdalex/Bootstrap-and-Sass-tutorial.git"
+  },
+  "keywords": [
+    "Tutorial"
+  ],
+  "author": "wsdalex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsdalex/Bootstrap-and-Sass-tutorial/issues"
+  },
+  "homepage": "https://github.com/wsdalex/Bootstrap-and-Sass-tutorial#readme",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
